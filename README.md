@@ -25,5 +25,5 @@ A lightweight, high-performance **Human-Computer Interaction (HCI)** tool that t
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/sharma-rajat-02/Computer-Vision](https://github.com/sharma-rajat-02/Computer-Vision)
-   cd vision-mouse-cv
+   git clone https://github.com/sharma-rajat-02/Computer-Vision.git
+   cd Computer-Vision
